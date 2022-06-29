@@ -6,4 +6,14 @@ let fahrenheit = celsius * (9 / 5) + 32;
 //this is the Temperature in Fahrenheit Styles haahhaa =DDDD!! =)!!!! :)!!
 fahrenheit = Math.floor(fahrenheit);
 //this is the converter from Celsius to Fahrenheit hahahaaa =DDDD !! =)!!!!
-console.log(`The temperature is ${fahrenheit} degress Fahrenheit.`)
+console.log(`The temperature is ${fahrenheit} degress Fahrenheit`);
+
+// Convert to Newton
+let newton = celsius * (33/100);
+
+// Round Down
+newton = Math.floor(newton);
+
+console.log(`The temperature is ${newton} degress Newton`);
+
+👍👍👍
